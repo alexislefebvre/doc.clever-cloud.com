@@ -19,7 +19,7 @@ You can now migrate any database easily in Clever Cloud
 
 Under any database add-on menu, go to the **Migrate/Upgrade** section.
 
-You will see the disclaimer of the database migration assistant. It informs you that *your databse will be read-only during the migration process* and that the *hostname and database name will be automatically changed*. 
+You will see the disclaimer of the database migration assistant. It informs you that *your database will be read-only during the migration process* and that the *hostname and database name will be automatically changed*. 
 
 Regading this, we strongly recommend that you make sure every linked application uses the database add-on environment variables so those values will be automatically updated in your application.
 
@@ -27,7 +27,7 @@ Once you are ready, you can click on **Migration Settings**.
 
 A menu will open, where you will see your current database informations.
 
-Under you will see that you can select your new batabse size and pricing plan. Billing section in Summary will be edited accordingly.
+Under you will see that you can select your new batabase size and pricing plan. Billing section in Summary will be edited accordingly.
 
 Under **Targeted version** you can choose the desired database version.
 
