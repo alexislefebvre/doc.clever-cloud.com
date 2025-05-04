@@ -1,6 +1,6 @@
 ## FTP Deployment
 
-Make sure you have [Filezilla](https://filezilla-project.org/) or an other FTP software installed in your machine.
+Make sure you have [Filezilla](https://filezilla-project.org/) or an other FTP software.
 
 When you have chosen to deploy your application via FTP at the application creation, a free [FS Bucket]({{< ref "deploy/addon/fs-bucket.md" >}}) has been created with an ID matching your application's ID.
 
